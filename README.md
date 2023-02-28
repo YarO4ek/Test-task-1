@@ -1,3 +1,3 @@
 # Test-task
-My test task for company COSMOS
+My test task for company KOSMOS
 
